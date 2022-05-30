@@ -74,7 +74,7 @@ swe_version = '2.10.02'
 swe_detection = False
 
 # Include additional functions and constants (contrib submodule)
-use_swephelp = False
+use_swephelp = True
 
 # Sqlite3 detection
 # Set to True to try and find libsqlite3-dev in system.

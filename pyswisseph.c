@@ -50,7 +50,7 @@
 
 /* Wether to build swephelp functions */
 #ifndef PYSWE_USE_SWEPHELP
-#define PYSWE_USE_SWEPHELP      0
+#define PYSWE_USE_SWEPHELP      1
 #endif
 
 /* Dont modify below */
