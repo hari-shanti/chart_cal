@@ -74,13 +74,13 @@ swe_version = '2.10.02'
 swe_detection = False
 
 # Include additional functions and constants (contrib submodule)
-use_swephelp = True
+use_swephelp = False
 
 # Sqlite3 detection
 # Set to True to try and find libsqlite3-dev in system.
 # Set to False to use bundled sqlite3.
 # This is relevant only for the contrib submodule.
-sqlite3_detection = False
+sqlite3_detection = True
 
 # Compile flags
 cflags = []
