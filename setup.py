@@ -80,7 +80,7 @@ use_swephelp = True
 # Set to True to try and find libsqlite3-dev in system.
 # Set to False to use bundled sqlite3.
 # This is relevant only for the contrib submodule.
-sqlite3_detection = True
+sqlite3_detection = False
 
 # Compile flags
 cflags = []
